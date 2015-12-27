@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CoreDataStack.h
 //  NoteTackingApp
 //
 //  Created by Pradip on 26/12/15.
 //  Copyright © 2015 Pradip. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface ViewController : UIViewController
-
+@interface CoreDataStack : NSObject
 
 @end
-
